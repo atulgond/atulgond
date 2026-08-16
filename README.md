@@ -13,26 +13,39 @@ I'm a **Computer Science student and Software Developer** passionate about build
 ## 🔗 Connect with me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/atul-gond-543a70302/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
-&nbsp;
+
+ 
+
 <a href="https://github.com/atulgond">
 <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
-&nbsp;
+
+ 
+
 <a href="https://codeforces.com/profile/From_UP">
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="40"/>
 </a>
-&nbsp;
+
+ 
+
 <a href="https://www.codechef.com/users/holy_jaguar_03">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="40"/>
 </a>
-&nbsp;
+
+ 
+
 <a href="https://leetcode.com/u/atulgond01/">
-<img src="https://skillicons.dev/icons?i=leetcode" width="45"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="40"/>
 </a>
+
 </p>
+
+<hr>
+
 ---
 
 ## 🛠️ Technologies & Tools
