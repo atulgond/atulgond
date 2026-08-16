@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Atul Gond
 
-I'm a passionate **Computer Science student and Software Developer** who enjoys building web applications, solving algorithmic problems, and learning new technologies.
+I'm a **Computer Science student and Software Developer** passionate about building web applications, solving algorithmic problems, and learning new technologies.
 
-💻 Interested in **Full-Stack Development & Backend Engineering**
+💻 **Full-Stack Development & Backend Engineering**
 🧠 **600+ DSA problems** solved across coding platforms
 🏆 **CodeChef 4-Star** | **Codeforces Specialist**
-🔥 **LeetCode Rating: 1550** | **139 Problems Solved**
-🚀 Currently focused on building real-world projects and improving my software engineering skills.
+🔥 **LeetCode: 1550 Rating | 139 Problems Solved**
+🚀 Building real-world projects and continuously improving my software engineering skills.
 
 ---
 
@@ -50,9 +50,8 @@ I'm a passionate **Computer Science student and Software Developer** who enjoys 
 * ⚙️ Backend Development
 * 🧠 Data Structures & Algorithms
 * 🏆 Competitive Programming
-* 🗄️ Database Management
 * 🔌 REST APIs
-* ☁️ Cloud & Deployment
+* 🗄️ Database Management
 * 🤝 Open Source
 
 ---
@@ -61,30 +60,21 @@ I'm a passionate **Computer Science student and Software Developer** who enjoys 
 
 ### 🛒 E-Commerce Website
 
-A full-stack e-commerce application with authentication, product browsing, cart management and online payments.
+Full-stack e-commerce platform with authentication, product browsing, cart management and online payments.
 
 **Tech:** React • Node.js • Express.js • MongoDB • Cloudinary • Stripe
 
 ### 📚 Learn-For-Tomorrow
 
-A student-focused platform for accessing lecture notes and staying updated with relevant news.
+Student-focused platform for accessing lecture notes and staying updated with relevant news.
 
 **Tech:** React • Node.js • Express.js • MongoDB
 
 ### 🔐 ECHOBOX
 
-An anonymous messaging platform supporting ephemeral chats, groups, text, images, voice notes and documents.
+Anonymous messaging platform supporting ephemeral chats, groups, text, images, voice notes and documents.
 
 **Tech:** React • Node.js • Express.js • MongoDB
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=atulgond&show_icons=true&theme=dark&hide_border=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atulgond&theme=dark&hide_border=true" />
-</p>
 
 ---
 
@@ -96,7 +86,7 @@ An anonymous messaging platform supporting ephemeral chats, groups, text, images
 
 ---
 
-## 📫 How to reach me
+## 📫 How to Reach Me
 
 * 📧 **Email:** [gondatul304@gmail.com](mailto:gondatul304@gmail.com)
 * 💼 **LinkedIn:** [Atul Gond](https://www.linkedin.com/in/atul-gond-543a70302/)
@@ -109,10 +99,10 @@ An anonymous messaging platform supporting ephemeral chats, groups, text, images
 
 ## ⚡ Fun Fact
 
-I enjoy turning difficult algorithmic problems into simple solutions and building projects that solve real-world problems.
+I enjoy turning challenging algorithmic problems into simple solutions and building projects that solve real-world problems.
 
 ---
 
 <p align="center">
-  <b>✨ Thanks for visiting my profile! Let's build something amazing together. 🚀</b>
+<b>✨ Thanks for visiting my profile! Let's build something amazing together. 🚀</b>
 </p>
