@@ -21,19 +21,18 @@ I'm a **Computer Science student and Software Developer** passionate about build
 <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 &nbsp;
-<a href="https://codeforces.com/profile/From_UP">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" width="45"/>
-</a>
-&nbsp;
-<a href="https://www.codechef.com/users/holy_jaguar_03">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" width="45"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/atulgond01/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="45"/>
-</a>
-</p>
-
+24 <a href="https://codeforces.com/profile/From_UP">
+25 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="40"/>
+26 </a>
+27 &nbsp;
+28 <a href="https://www.codechef.com/users/holy_jaguar_03">
+29 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="40"/>
+30 </a>
+31 &nbsp;
+32 <a href="https://leetcode.com/u/atulgond01/">
+33 <img src="https://skillicons.dev/icons?i=leetcode" width="45"/>
+34 </a>
+35 </p>
 ---
 
 ## 🛠️ Technologies & Tools
