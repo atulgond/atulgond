@@ -20,8 +20,6 @@ I'm a **Computer Science student and Software Developer** passionate about build
 <a href="https://leetcode.com/u/atulgond01/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="40"/></a>
 </p>
 
-<hr>
-
 ---
 
 ## 🛠️ Technologies & Tools
